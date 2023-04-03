@@ -1,10 +1,12 @@
+// About page content
+
 let AboutContent =
   '<section id="About">\
 <div class="about-content">\
   <h1 class="text-primary">ABOUT</h1>\
   <div class="about-container d-flex">\
     <div class="left-section">\
-      <img src="./images/about-section.png" alt="" width="200px" />\
+      <img src="./src/images/about-section.png" alt="" width="200px" />\
     </div>\
     <div class="right-section">\
       <h4>About us</h4>\

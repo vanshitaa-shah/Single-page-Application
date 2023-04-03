@@ -1,3 +1,4 @@
+// Homepage content
 let HomeContent =
   '<section id="Home"> \
                     <div class="home-content">\
