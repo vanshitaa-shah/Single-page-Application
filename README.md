@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Single-page-Application
-=======
-# Single-page-Application
+
+### Live Link : [https://earnest-moxie-14ad35.netlify.app/](https://earnest-moxie-14ad35.netlify.app/)
 
 ### Introduction :
 
@@ -28,4 +27,3 @@
 - main.js
 - style.css
 - README.md
->>>>>>> feature
