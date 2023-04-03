@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Single-page-Application
-=======
 # Single-page-Application
 
 ### Introduction :
